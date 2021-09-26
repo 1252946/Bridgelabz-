@@ -1,0 +1,1 @@
+echo Hello Gyanendra | awk '{ print $2 }'
